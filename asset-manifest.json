@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/powerhour/static/css/main.f855e6bc.css",
-    "main.js": "/powerhour/static/js/main.180b08c4.js",
+    "main.js": "/powerhour/static/js/main.1ca9721c.js",
+    "static/js/885.6ef51fdf.chunk.js": "/powerhour/static/js/885.6ef51fdf.chunk.js",
     "static/js/453.a829b981.chunk.js": "/powerhour/static/js/453.a829b981.chunk.js",
-    "static/media/logo.svg": "/powerhour/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/warhorn.mp3": "/powerhour/static/media/warhorn.01565e11908c10d65714.mp3",
+    "static/media/tickv2.mp3": "/powerhour/static/media/tickv2.61db34d581b99b2757ab.mp3",
+    "static/media/victory.mp3": "/powerhour/static/media/victory.a5ddae5c8977fe3fcea1.mp3",
     "index.html": "/powerhour/index.html",
     "main.f855e6bc.css.map": "/powerhour/static/css/main.f855e6bc.css.map",
-    "main.180b08c4.js.map": "/powerhour/static/js/main.180b08c4.js.map",
+    "main.1ca9721c.js.map": "/powerhour/static/js/main.1ca9721c.js.map",
+    "885.6ef51fdf.chunk.js.map": "/powerhour/static/js/885.6ef51fdf.chunk.js.map",
     "453.a829b981.chunk.js.map": "/powerhour/static/js/453.a829b981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.180b08c4.js"
+    "static/js/main.1ca9721c.js"
   ]
 }
